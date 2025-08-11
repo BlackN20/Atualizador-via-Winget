@@ -1,0 +1,1 @@
+# Atualizador-via-Winget
